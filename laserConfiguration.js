@@ -1,0 +1,2 @@
+var laserStatus = 'OFF';
+
